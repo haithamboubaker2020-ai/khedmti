@@ -1,0 +1,8 @@
+export default function Home() {
+  return (
+    <main>
+      <h1>خدمتي</h1>
+      <p>من الفورم للفرصة</p>
+    </main>
+  );
+}
